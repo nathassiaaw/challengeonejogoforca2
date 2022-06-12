@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;600&display=swap');
+
+*:root{
+--main-font:'Barlow', sans-serif;
+
+--dark-blue:#02122a;
+--purple:#a93ba0;
+--light-gray:#eff0ec;
+--medium-gray:#A8A9A6;
+--desaturated-blue:#565591;
+}

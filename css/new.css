@@ -1,0 +1,26 @@
+textarea {
+    background-color: var(--light-gray);
+    border-style: none;
+    outline: none;
+    resize: none;
+
+}
+
+#text-input{
+    box-sizing: border-box;
+    padding: 1rem;
+    font-size: 1rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.new-word {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+.img-icon {
+    margin-right: 0.2rem;
+}
